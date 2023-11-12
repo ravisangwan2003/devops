@@ -1,2 +1,10 @@
+<<<<<<< Updated upstream
 qa This is first feature of our application
 This is commit 2
+=======
+this is another line
+This is the bug fix in development branch
+
+
+This is stashing example
+>>>>>>> Stashed changes
